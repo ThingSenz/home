@@ -1,26 +1,40 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
+import {BrowserRouter as Router,HashRouter,Switch,Route,Link} from "react-router-dom";
+import HomePage from "./pages/HomePage";
+import HandSanzPage from "./pages/HandSanzPage";
+import NavBar from "./components/NavBar";
+import FooterPage from "./components/footer";
+import IssuesPage from "./pages/IssuesPage";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+export default class App extends React.Component{
+
+
+
+  render() {
+
+
+    return(
+
+        <div>
+
+      <HashRouter>
+        <NavBar/>
+        <div>
+          <Switch>
+            <Route path="/" exact component={HomePage} />
+
+            <Route path="/products" component={HandSanzPage} />
+
+            <Route path="/issues" component={IssuesPage} />
+          </Switch>
+        </div>
+      </HashRouter>
+          <FooterPage/>
+        </div>
+    )
+
+  }
+
 }
-
-export default App;
