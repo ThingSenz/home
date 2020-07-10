@@ -19,7 +19,7 @@ export default class App extends React.Component{
 
         <div>
 
-      <HashRouter>
+      <HashRouter basename="thingsenz.github.io">
         <NavBar/>
         <div>
           <Switch>
