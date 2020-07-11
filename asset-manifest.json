@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.ec034d49.chunk.css",
-    "main.js": "/home/static/js/main.071b5040.chunk.js",
-    "main.js.map": "/home/static/js/main.071b5040.chunk.js.map",
+    "main.css": "/home/static/css/main.b8569a8f.chunk.css",
+    "main.js": "/home/static/js/main.a2b786c6.chunk.js",
+    "main.js.map": "/home/static/js/main.a2b786c6.chunk.js.map",
     "runtime-main.js": "/home/static/js/runtime-main.595f2ffb.js",
     "runtime-main.js.map": "/home/static/js/runtime-main.595f2ffb.js.map",
     "static/css/2.46199841.chunk.css": "/home/static/css/2.46199841.chunk.css",
-    "static/js/2.20aca57d.chunk.js": "/home/static/js/2.20aca57d.chunk.js",
-    "static/js/2.20aca57d.chunk.js.map": "/home/static/js/2.20aca57d.chunk.js.map",
+    "static/js/2.27692da3.chunk.js": "/home/static/js/2.27692da3.chunk.js",
+    "static/js/2.27692da3.chunk.js.map": "/home/static/js/2.27692da3.chunk.js.map",
     "index.html": "/home/index.html",
-    "precache-manifest.f7fa2dc608e6c777872f7ca15207bff9.js": "/home/precache-manifest.f7fa2dc608e6c777872f7ca15207bff9.js",
+    "precache-manifest.bfb63bbcb67d577c8454767ad6cfea07.js": "/home/precache-manifest.bfb63bbcb67d577c8454767ad6cfea07.js",
     "service-worker.js": "/home/service-worker.js",
     "static/css/2.46199841.chunk.css.map": "/home/static/css/2.46199841.chunk.css.map",
-    "static/css/main.ec034d49.chunk.css.map": "/home/static/css/main.ec034d49.chunk.css.map",
-    "static/js/2.20aca57d.chunk.js.LICENSE.txt": "/home/static/js/2.20aca57d.chunk.js.LICENSE.txt",
+    "static/css/main.b8569a8f.chunk.css.map": "/home/static/css/main.b8569a8f.chunk.css.map",
+    "static/js/2.27692da3.chunk.js.LICENSE.txt": "/home/static/js/2.27692da3.chunk.js.LICENSE.txt",
     "static/media/banner3.jpg": "/home/static/media/banner3.56ce0b93.jpg",
     "static/media/font-awesome.css": "/home/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/iot1.png": "/home/static/media/iot1.338aa1b2.png",
@@ -23,7 +23,6 @@
     "static/media/prod3.jpeg": "/home/static/media/prod3.797c6c3b.jpeg",
     "static/media/prod4.jpeg": "/home/static/media/prod4.8bd6e247.jpeg",
     "static/media/prod5.jpeg": "/home/static/media/prod5.4161a40a.jpeg",
-    "static/media/prod6.jpeg": "/home/static/media/prod6.1e88231f.jpeg",
     "static/media/prod7.jpeg": "/home/static/media/prod7.e9700c38.jpeg",
     "static/media/slick-theme.css": "/home/static/media/slick.f97e3bbf.svg",
     "static/media/thingsenzlogo.jpeg": "/home/static/media/thingsenzlogo.7aed7381.jpeg"
@@ -31,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.595f2ffb.js",
     "static/css/2.46199841.chunk.css",
-    "static/js/2.20aca57d.chunk.js",
-    "static/css/main.ec034d49.chunk.css",
-    "static/js/main.071b5040.chunk.js"
+    "static/js/2.27692da3.chunk.js",
+    "static/css/main.b8569a8f.chunk.css",
+    "static/js/main.a2b786c6.chunk.js"
   ]
 }
