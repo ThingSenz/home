@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.b8569a8f.chunk.css",
-    "main.js": "/home/static/js/main.a2b786c6.chunk.js",
-    "main.js.map": "/home/static/js/main.a2b786c6.chunk.js.map",
+    "main.css": "/home/static/css/main.8928a18b.chunk.css",
+    "main.js": "/home/static/js/main.98d9bf93.chunk.js",
+    "main.js.map": "/home/static/js/main.98d9bf93.chunk.js.map",
     "runtime-main.js": "/home/static/js/runtime-main.595f2ffb.js",
     "runtime-main.js.map": "/home/static/js/runtime-main.595f2ffb.js.map",
     "static/css/2.46199841.chunk.css": "/home/static/css/2.46199841.chunk.css",
-    "static/js/2.27692da3.chunk.js": "/home/static/js/2.27692da3.chunk.js",
-    "static/js/2.27692da3.chunk.js.map": "/home/static/js/2.27692da3.chunk.js.map",
+    "static/js/2.1520c2f8.chunk.js": "/home/static/js/2.1520c2f8.chunk.js",
+    "static/js/2.1520c2f8.chunk.js.map": "/home/static/js/2.1520c2f8.chunk.js.map",
     "index.html": "/home/index.html",
-    "precache-manifest.bfb63bbcb67d577c8454767ad6cfea07.js": "/home/precache-manifest.bfb63bbcb67d577c8454767ad6cfea07.js",
+    "precache-manifest.4dc291264f934f4a091a6458daa5ea29.js": "/home/precache-manifest.4dc291264f934f4a091a6458daa5ea29.js",
     "service-worker.js": "/home/service-worker.js",
     "static/css/2.46199841.chunk.css.map": "/home/static/css/2.46199841.chunk.css.map",
-    "static/css/main.b8569a8f.chunk.css.map": "/home/static/css/main.b8569a8f.chunk.css.map",
-    "static/js/2.27692da3.chunk.js.LICENSE.txt": "/home/static/js/2.27692da3.chunk.js.LICENSE.txt",
+    "static/css/main.8928a18b.chunk.css.map": "/home/static/css/main.8928a18b.chunk.css.map",
+    "static/js/2.1520c2f8.chunk.js.LICENSE.txt": "/home/static/js/2.1520c2f8.chunk.js.LICENSE.txt",
     "static/media/banner3.jpg": "/home/static/media/banner3.56ce0b93.jpg",
+    "static/media/cotrack2.jpg": "/home/static/media/cotrack2.9bc8e3cf.jpg",
     "static/media/font-awesome.css": "/home/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/img1.jpeg": "/home/static/media/img1.0884cdb2.jpeg",
     "static/media/iot1.png": "/home/static/media/iot1.338aa1b2.png",
     "static/media/iot2.jpg": "/home/static/media/iot2.6f95a1b0.jpg",
     "static/media/prod1.jpeg": "/home/static/media/prod1.1f9388bd.jpeg",
@@ -30,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.595f2ffb.js",
     "static/css/2.46199841.chunk.css",
-    "static/js/2.27692da3.chunk.js",
-    "static/css/main.b8569a8f.chunk.css",
-    "static/js/main.a2b786c6.chunk.js"
+    "static/js/2.1520c2f8.chunk.js",
+    "static/css/main.8928a18b.chunk.css",
+    "static/js/main.98d9bf93.chunk.js"
   ]
 }
