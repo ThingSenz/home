@@ -20,8 +20,9 @@ export default class HomePage extends React.Component {
                     <text  className="purple-text">PRODUCTS</text>
                 </div>
 
+                <div style={{marginLeft: '20px'}} className="container-fluid">
                 <ProductCard title="HandSanz" body="Automatic Sanitizer Dispenser to fill your needs. Suitable for all locations" imgUrl={prod1} goto="/products"/>
-
+                </div>
             </div>
         );
     }

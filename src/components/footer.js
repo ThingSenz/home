@@ -57,7 +57,7 @@ const FooterPage=()=>(
         </MDBContainer>
 
         <div className="footer-copyright text-center py-3">
-            <MDBContainer fluid>&copy; {new Date().getFullYear()} Copyright: thingsenz.tech &reg;  <br/><hr/> Floroma &reg;&trade; is a product of Asha Chemicals.</MDBContainer>
+            <MDBContainer fluid>Published: {new Date().getFullYear()} Copyright: thingsenz.github.io &reg;  <br/><hr/></MDBContainer>
         </div>
 
     </MDBFooter>

@@ -51,7 +51,7 @@ export default class HandSanzPage extends React.Component {
                                    <i className="fa fa-check" aria-hidden="true"></i> ABS Body with strong polycarbonate 2L tank
                                </MDBListGroupItem>
                                <MDBListGroupItem className="d-flex justify-content-between align-items-center green-text">
-                                   <i className="fa fa-star" aria-hidden="true"></i> 750 ml Free Sanitizer for limited time
+                                   <i className="fa fa-star" aria-hidden="true"></i> 500 ml Free Sanitizer for limited time
                                </MDBListGroupItem>
                            </MDBListGroup>
                        </MDBContainer>
@@ -75,7 +75,7 @@ export default class HandSanzPage extends React.Component {
                                        <Card.Text><li> Apt for use in home and small office space</li> </Card.Text>
                                    </Card.Body>
                                    <Card.Footer>
-                                       &#x20B9; 2500 *
+                                       MRP: &#x20B9; 3500 * (incl of GST)
                                    </Card.Footer>
                                </Card>
 
@@ -93,7 +93,7 @@ export default class HandSanzPage extends React.Component {
                                        <Card.Text><li> Apt for use in Production lines, office space, Shopping malls, Restaurants, etc </li></Card.Text>
                                    </Card.Body>
                                    <Card.Footer>
-                                       &#x20B9; 3000 *
+                                       MRP: &#x20B9; 3000 * (incl of GST)
                                    </Card.Footer>
                                </Card>
 
@@ -109,20 +109,20 @@ export default class HandSanzPage extends React.Component {
                        <div className="jumbotron-fluid text-center py-5">
 
                            <text>* Prices are subject to change</text><br/>
-                           <text>** The images shown may differ from the actual product. No queries will be entertained in this regard</text>
-
+                           <text>** The price is non-inclusive of Shipping charges. Shipping charges apply separately based on location-wise charges of shipping partner</text><br/>
+                           <text>*** The images shown may differ from the actual product. No queries will be entertained in this regard</text>
                        </div>
 
 
                        <div className="jumbotron-fluid">
                            <text>Chat to Order</text><br/>
                            <a className="btn-outline-success bg-light border-dark mx-5" href="https://api.whatsapp.com/send?phone=919902630775" target="_blank">
-                                  <i className="fa fa-whatsapp"></i> Contact 1
+                                  <i className="fa fa-whatsapp"></i> +91-990-263-0775
                            </a>
                            <br/>
 
                            <a className="btn-outline-success bg-light mx-5" href="https://api.whatsapp.com/send?phone=916362342879" target="_blank" style={{marginTop: '10px'}}>
-                               <i className="fa fa-whatsapp"></i> Contact 2
+                               <i className="fa fa-whatsapp"></i> +91-636-234-2879
                            </a>
 
                        </div>

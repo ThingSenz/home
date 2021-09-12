@@ -17,9 +17,9 @@ export default class App extends React.Component{
 
     return(
 
-        <div>
+        <div className="container-fluid" style={{width: '100%',height: "100%"}}>
 
-      <HashRouter basename="thingsenz.github.io">
+      <HashRouter>
         <NavBar/>
         <div>
           <Switch>

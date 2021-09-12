@@ -9,7 +9,7 @@ const ProductCard=({imgUrl,title,body,goto})=>(
             <MDBCardBody>
                 <MDBCardTitle>{title}</MDBCardTitle>
                 <MDBCardText>{body}</MDBCardText>
-                <MDBBtn><Link to={goto}>View</Link></MDBBtn>
+                <MDBBtn><Link to="/products">View</Link></MDBBtn>
             </MDBCardBody>
         </MDBCard>
     </MDBCol>
