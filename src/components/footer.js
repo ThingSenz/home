@@ -49,7 +49,7 @@ const FooterPage=()=>(
                         <i className="fa fa-envelope mr-3" /><a href="mailto:thingsenz@gmail.com?subject=HandSanz">thingsenz@gmail.com</a>
                     </p>
                     <p>
-                        <i className="fa fa-phone mr-3" /><a href="tel:+919902630775"> +91-9902630775 </a>
+                        <i className="fa fa-phone mr-3" /><a href=""> Redacted </a>
                     </p>
 
                 </MDBCol>
@@ -57,7 +57,7 @@ const FooterPage=()=>(
         </MDBContainer>
 
         <div className="footer-copyright text-center py-3">
-            <MDBContainer fluid>Published: {new Date().getFullYear()} Copyright: thingsenz.github.io &reg;  <br/><hr/></MDBContainer>
+            <MDBContainer fluid>Published: {new Date().getFullYear()} thingsenz.github.io <br/><hr/></MDBContainer>
         </div>
 
     </MDBFooter>
