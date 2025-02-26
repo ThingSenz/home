@@ -57,7 +57,7 @@ const FooterPage=()=>(
         </MDBContainer>
 
         <div className="footer-copyright text-center py-3">
-            <MDBContainer fluid>Originally Published Year: 2021 Current Year: {new Date().getFullYear()} thingsenz.github.io <br/><hr/></MDBContainer>
+            <MDBContainer fluid>Originally Published Year : 2021 Current Year : {new Date().getFullYear()} thingsenz.github.io <br/><hr/></MDBContainer>
         </div>
 
     </MDBFooter>
